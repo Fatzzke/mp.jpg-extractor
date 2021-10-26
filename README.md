@@ -6,4 +6,4 @@ Usage:\
 Download\
 Open in Browser\
 ???\
-Profit\
+Profit
